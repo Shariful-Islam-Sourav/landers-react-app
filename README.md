@@ -1,6 +1,6 @@
 # Simple React SPA Land/Properties Website
 
-Live Site Link -
+Live Site Link - https://landers-react.netlify.app/
 
 ## Used
 [1] Tailwind CSS </br>
