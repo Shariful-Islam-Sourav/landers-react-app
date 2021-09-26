@@ -1,0 +1,137 @@
+[
+    {
+        "id": "BS212314",
+        "name": "Robert's Ranch",
+        "price": 1200000,
+        "acres": 10,
+        "location": "Hamilton,Texas",
+        "seller": "The Landers",
+        "img": "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3959191217"
+    },
+    {
+        "id": "CS212323",
+        "name": "Kyle's Farmhouse",
+        "price": 12200000,
+        "acres": 12,
+        "location": "Briarcliff, Texas",
+        "seller": "Property Wishers",
+        "img": "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3959200146"
+    },
+    {
+        "id": "DS214324",
+        "name": "North Hills Area",
+        "price": 1000000,
+        "acres": 17,
+        "location": "Buffalo Springs, Texas",
+        "seller": "Land Miners",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3966650463"
+    },
+    {
+        "id": "ES204424",
+        "name": "Queens Land area",
+        "price": 2000000,
+        "acres": 15,
+        "location": "Pleak,Texas",
+        "seller": "John Lands Corp",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3861415344"
+    },
+    {
+        "id": "FS209424",
+        "name": "Creek's Farm",
+        "price": 200000,
+        "acres": 5,
+        "location": "Willsquare,Texas",
+        "seller": "Property Wishers",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3899651296"
+    },
+    {
+        "id": "GS304424",
+        "name": "Riverside Greenary",
+        "price": 2200000,
+        "acres": 20,
+        "location": "Hamilton,Texas",
+        "seller": "John Lands Corp",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3915704669"
+    },
+    {
+        "id": "HS234425",
+        "name": "John's Estate",
+        "price": 1200000,
+        "acres": 10,
+        "location": "Kaufman County, Texas",
+        "seller": "Landers Hub",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3904323425"
+    },
+    {
+        "id": "IS206624",
+        "name": "David's Ranch",
+        "price": 900000,
+        "acres": 5,
+        "location": "Fort Bend County, Texas",
+        "seller": "The Landers",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3884410261"
+    },
+    {
+        "id": "JS201524",
+        "name": "Moon Shine's Factory Land",
+        "price": 3200000,
+        "acres": 21,
+        "location": "Vinton, Texas",
+        "seller": "Land Lords",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3932853717"
+    },
+    {
+        "id": "KS304424",
+        "name": "King Hood Land",
+        "price": 1700000,
+        "acres": 15,
+        "location": "Webberville, Texas",
+        "seller": "Land Miners",
+        "img" : "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3954987891"
+    },
+    {
+        "id": "LS205624",
+        "name": "Salsa's Farmhouse",
+        "price": 1250000,
+        "acres": 13,
+        "location": "Salado,Texas",
+        "seller": "Land Texas",
+        "img": "https://assets.landwatch.com/resizedimages/214/350/l/60/1-3904323425"
+    },
+    {
+        "id": "MS704224",
+        "name": "Estate Fields",
+        "price": 1050000,
+        "acres": 11,
+        "location": "Kaufman County, Texas",
+        "seller": "Land Lords",
+        "img": "https://assets.landsofamerica.com/resizedimages/214/350/l/60/1-3850894211"
+    },
+    {
+        "id": "NS224574",
+        "name": "King Hill's Land",
+        "price": 1870000,
+        "acres": 16,
+        "location": "Webberville, Texas",
+        "seller": "Land Wishers",
+        "img" : "https://assets.landsofamerica.com/resizedimages/214/350/l/60/1-3929966269"
+    },
+    {
+        "id": "OS203424",
+        "name": "Hood's Estate Area",
+        "price": 950000,
+        "acres": 7,
+        "location": "Fortland,Texas",
+        "seller": "The Landers",
+        "img": "https://assets.landsofamerica.com/resizedimages/214/350/l/60/1-3895673492"
+    },
+    {
+        "id": "PS205524",
+        "name": "David's Ranch",
+        "price": 1450000,
+        "acres": 19,
+        "location": "Hamilton,Texas",
+        "seller": "Land Texas",
+        "img": "https://assets.landsofamerica.com/resizedimages/214/350/l/60/1-3834219183"
+    }
+]
