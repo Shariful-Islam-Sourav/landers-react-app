@@ -16,7 +16,7 @@ const Wishlist = (prop) => {
         <h2 className="text-xl my-2">Lands Added: {wishlist.length}</h2>
         <h2 className="text-xl">Total Value: $ {total}</h2>
         {wishlist.map((land) => (
-          <WishlistName landDetails={land}></WishlistName>
+          <WishlistName landDetails={land} key={Math.random()}></WishlistName>
         ))}
       </div>
     </div>

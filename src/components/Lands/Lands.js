@@ -22,18 +22,18 @@ const Lands = (prop) => {
         </a>
         <br />
         <div className="flex items-center justify-between">
-        <button
-          onClick={() => prop.handleWishlist(prop)}
-          className="bg-red-500 py-1 px-2 rounded-lg text-white mt-2"
-        >
-          <i className="fa fa-heart"></i> Add To Wishlist
-        </button>
-        <a
-          href="_call"
-          className="bg-green-500 py-1 px-2 rounded-lg text-white mt-2"
-        >
-          <i className="fas fa-phone"></i> Contact Now
-        </a>
+          <button
+            onClick={() => prop.handleWishlist(prop)}
+            className="bg-red-500 py-1 px-2 rounded-lg text-white mt-2"
+          >
+            <i className="fa fa-heart"></i> Add To Wishlist
+          </button>
+          <a
+            href="_call"
+            className="bg-green-500 py-1 px-2 rounded-lg text-white mt-2"
+          >
+            <i className="fas fa-phone"></i> Contact Now
+          </a>
         </div>
       </div>
     </div>
